@@ -1,0 +1,11 @@
+I created this visualization by first manipulating the data into finding the encounters where patients had Depression,
+Anxiety, or PTSD. Then, I found out the dates of the first encounter to see which encounters followed the pattern 
+Anxiety to Depression or Depression to PTSD. The visualization shows events where this pattern is followed. 
+The one issue with this was actually getting symbols into tableau while also having issues with editing the legend. 
+
+Claim
+It is much more common for patients to have anxiety and then depression that is for them to have depression and then PTSD. 
+
+Reason
+There are many instances of patients having anxiety and later having depression, but only one instance of a patient having
+depression and then PTSD

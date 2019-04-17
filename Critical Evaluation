@@ -2,10 +2,19 @@ I created this visualization by first manipulating the data into finding the enc
 Anxiety, or PTSD. Then, I found out the dates of the first encounter to see which encounters followed the pattern 
 Anxiety to Depression or Depression to PTSD. The visualization shows events where this pattern is followed. 
 The one issue with this was actually getting symbols into tableau while also having issues with editing the legend. 
+I think that this visualization accurately shows how these two patterns persist over time. However, I think it can be improved
+by adding symbols instead of just lines. Regardless, it is clear that this visualization shows how one pattern persists much 
+more frequently than the other. It was not very common for PTSD to follow depression.Intuitively this makes sense since Anxiety
+and depression are more closely related than PTSD and depression.
+
+
 
 Claim
 It is much more common for patients to have anxiety and then depression that is for them to have depression and then PTSD. 
 
 Reason
 There are many instances of patients having anxiety and later having depression, but only one instance of a patient having
-depression and then PTSD
+depression and then PTSD. This makes sense since PTSD generally happens after freak accidents and those are rare and difficult
+to predict. 
+
+However, there are a lot less people that have PTSD than anxiety, so we have a lot less data to look at with this analysis. 
